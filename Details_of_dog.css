@@ -1,0 +1,33 @@
+body{
+    background-color:#03ffbb;
+    margin: 50px;
+}
+h1{
+    text-align: center;
+    color: magenta;
+    text-decoration-line: underline;
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: mediumvioletred;
+    margin: 15px;
+}
+figure{
+    float: right;
+}
+figcaption{
+    text-align: center;
+    font-size: 22;
+}
+p{
+    font-size: 22;
+}
+h2{
+    color: #4003ff;
+}
+ul{
+    font-size: 22;
+}

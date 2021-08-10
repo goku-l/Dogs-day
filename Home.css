@@ -1,0 +1,24 @@
+body{
+    background-color:#03ffbb;
+    margin: 50px;
+}
+h1{
+    color:#ff0202;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-style:solid;
+    border-width: 2px;
+    border-color: #ff03de;
+    border-radius: 20px;
+    margin: 40px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    font-size: 32;
+}
